@@ -68,14 +68,17 @@ Questions to consider:
 * How confident are you that your results would generalize beyond the data you have?
 ***
 
-Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
 ![graph1](./images/viz1.png)
 
+
 ## Conclusions
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
+Genre: Action/Adventure
+Release Date: July on a weekend where no other action/adventure films are being released
+Rating: PG-13
+Production Budget: $31 Million+
 
 ***
 Questions to consider:
